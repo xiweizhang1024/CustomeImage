@@ -1,1 +1,0 @@
-Set-TimeZone -Id "China Standard Time"
